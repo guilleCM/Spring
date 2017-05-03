@@ -28,7 +28,6 @@ public class Setmana1Tests {
 	@Autowired(required=false)
 	private ServeiAlumnat servei;
 
-
     @Autowired
     private MockMvc mockMvc;
 
