@@ -2,4 +2,6 @@
 *.iml
 Servers/
 .metadata/
+.recommenders
+.recommenders/index/
 RemoteSystemsTempFiles/
